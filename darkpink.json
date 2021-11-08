@@ -2,11 +2,11 @@
     "manifest": {
         "author": "Kulouch#3024",
         "name": "Dark Pink",
-        "version": "1.0.0",
-        "updater": "https:\/\/raw.githubusercontent.com\/Kulouch\/dark-pink\/main\/darkpink.json"
+        "version": "1.0.0"
     },
     "background": {
-        "url": "https:\/\/media.discordapp.net\/attachments\/906289447476269069\/906488243447533568\/20211106_112029.png"
+        "url": "https:\/\/media.discordapp.net\/attachments\/906289447476269069\/906488243447533568\/20211106_112029.png",
+        "overlay_alpha": 0
     },
     "fonts": {
         "*": "https:\/\/cdn.discordapp.com\/attachments\/906289447476269069\/906295319975833711\/trebuc.ttf"
